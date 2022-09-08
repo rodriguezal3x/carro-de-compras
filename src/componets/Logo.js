@@ -12,7 +12,7 @@ const styles = {
     render(){
         return(
             <div style={styles.logo}>
-                Camila Store
+                Viaje Lijero
             </div>
         )
     }
